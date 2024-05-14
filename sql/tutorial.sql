@@ -3,5 +3,5 @@ CREATE TABLE users(
     Username varchar(200),
     Email varchar(200),
     Age int,
-    Password varchar(200)
+    Password varchar(200),
 );
